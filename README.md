@@ -56,7 +56,7 @@ Ensure the following are installed on your system:
 
 2. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/month-collection-java.git
+git clone https://github.com/ArnauAsole/S1.03.JavaCollections.Lv1.Ex1.git
 cd month-collection-java
 Open the project in IntelliJ:
 
